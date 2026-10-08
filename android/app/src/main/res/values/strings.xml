@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hue — Water Sort</string>
+    <string name="title_activity_main">Hue — Water Sort</string>
+    <string name="package_name">com.hue.watersort</string>
+    <string name="custom_url_scheme">com.hue.watersort</string>
+</resources>
